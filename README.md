@@ -16,7 +16,6 @@
 
 ## 项目截图
 
-前端使用Vue编写，地址为：https://github.com/Han-YLun/SaaS_IHRM_Vue
 
 ### SaaS管理员模块
 
