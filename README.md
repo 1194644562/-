@@ -4,8 +4,6 @@
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Han-YLun/SaaS_IHRM&type=Date)](https://star-history.com/#Han-YLun/SaaS_IHRM&Date)
 
-## 部署教程
- [https://www.cnblogs.com/ArvinYL/p/14460255.html](https://www.cnblogs.com/ArvinYL/p/14460255.html)
 
 ## 开发环境
 
